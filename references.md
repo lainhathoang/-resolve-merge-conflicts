@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+# dep trai loi tai ai
